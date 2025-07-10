@@ -1,0 +1,564 @@
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.exe
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\MediatR.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Application.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Domain.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Infrastructure.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Application.pdb
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Infrastructure.pdb
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Domain.pdb
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.csproj.AssemblyReference.cache
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.AssemblyInfoInputs.cache
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.AssemblyInfo.cs
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.sourcelink.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\scopedcss\bundle\ProjectManagementApp.Api.styles.css
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\refint\ProjectManagementApp.Api.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.pdb
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\appsettings.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.staticwebassets.endpoints.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.deps.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.runtimeconfig.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.pdb
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectM.B411A92A.Up2Date
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.genruntimeconfig.cache
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ref\ProjectManagementApp.Api.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\appsettings.Development.json
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\appsettings.json
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.staticwebassets.endpoints.json
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.exe
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.deps.json
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.runtimeconfig.json
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.pdb
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Azure.Core.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Azure.Identity.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\FluentValidation.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Humanizer.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\MediatR.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\MediatR.Contracts.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.ClientModel.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.CodeDom.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Memory.Data.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Text.Json.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Application.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Domain.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Infrastructure.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Application.pdb
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Infrastructure.pdb
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Domain.pdb
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.csproj.AssemblyReference.cache
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.AssemblyInfoInputs.cache
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.AssemblyInfo.cs
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.csproj.CoreCompileInputs.cache
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.sourcelink.json
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\scopedcss\bundle\ProjectManagementApp.Api.styles.css
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.build.json
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.development.json
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets\msbuild.ProjectManagementApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets\msbuild.ProjectManagementApp.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets\msbuild.build.ProjectManagementApp.Api.props
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProjectManagementApp.Api.props
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProjectManagementApp.Api.props
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.pack.json
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectM.B411A92A.Up2Date
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\refint\ProjectManagementApp.Api.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.pdb
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.genruntimeconfig.cache
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ref\ProjectManagementApp.Api.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\appsettings.Development.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\appsettings.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.staticwebassets.endpoints.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.exe
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.deps.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.runtimeconfig.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Api.pdb
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Azure.Core.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Azure.Identity.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\FluentValidation.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Humanizer.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\MediatR.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\MediatR.Contracts.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.ClientModel.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.CodeDom.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Drawing.Common.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Memory.Data.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Security.Permissions.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Application.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Domain.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Infrastructure.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Application.pdb
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Infrastructure.pdb
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\bin\Debug\net9.0\ProjectManagementApp.Domain.pdb
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.csproj.AssemblyReference.cache
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.AssemblyInfoInputs.cache
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.AssemblyInfo.cs
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.csproj.CoreCompileInputs.cache
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.MvcApplicationPartsAssemblyInfo.cs
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.MvcApplicationPartsAssemblyInfo.cache
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.sourcelink.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\scopedcss\bundle\ProjectManagementApp.Api.styles.css
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.build.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.development.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectM.B411A92A.Up2Date
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\refint\ProjectManagementApp.Api.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.pdb
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ProjectManagementApp.Api.genruntimeconfig.cache
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Api\obj\Debug\net9.0\ref\ProjectManagementApp.Api.dll

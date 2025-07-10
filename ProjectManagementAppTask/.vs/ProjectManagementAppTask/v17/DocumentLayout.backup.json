@@ -1,0 +1,1086 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\projecttask\\commands\\createprojecttask\\createprojecttaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\projecttask\\commands\\createprojecttask\\createprojecttaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\projecttask\\queries\\getallprojecttasks\\getallprojecttasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\projecttask\\queries\\getallprojecttasks\\getallprojecttasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\exceptions\\validationcustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\exceptions\\validationcustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\project\\commands\\createproject\\createprojectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\project\\commands\\createproject\\createprojectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\project\\commands\\createproject\\createprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\project\\commands\\createproject\\createprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\project\\commands\\deleteproject\\deleteprojectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\project\\commands\\deleteproject\\deleteprojectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\project\\commands\\deleteproject\\deleteprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\project\\commands\\deleteproject\\deleteprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\project\\commands\\updateproject\\updateprojectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\project\\commands\\updateproject\\updateprojectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\project\\commands\\updateproject\\updateprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\project\\commands\\updateproject\\updateprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\project\\queries\\getallprojects\\getallprojectsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\project\\queries\\getallprojects\\getallprojectsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\project\\queries\\getallprojects\\getallprojectsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\project\\queries\\getallprojects\\getallprojectsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\project\\queries\\getallprojects\\getallprojectresponse.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\project\\queries\\getallprojects\\getallprojectresponse.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\project\\queries\\getprojectbyid\\getprojectbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\project\\queries\\getprojectbyid\\getprojectbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\project\\queries\\getprojectbyid\\getprojectbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\project\\queries\\getprojectbyid\\getprojectbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\project\\queries\\getprojectbyid\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\project\\queries\\getprojectbyid\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\project\\queries\\getprojectbyid\\getprojectbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\project\\queries\\getprojectbyid\\getprojectbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\projecttask\\queries\\getprojecttaskbyid\\getprojecttaskbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\projecttask\\queries\\getprojecttaskbyid\\getprojecttaskbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\projecttask\\commands\\updateprojecttask\\updateprojecttaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\projecttask\\commands\\updateprojecttask\\updateprojecttaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\projecttask\\commands\\createprojecttask\\createprojecttaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\projecttask\\commands\\createprojecttask\\createprojecttaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.api\\controllers\\projecttaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|solutionrelative:projectmanagementapp.api\\controllers\\projecttaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|solutionrelative:projectmanagementapp.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|solutionrelative:projectmanagementapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.api\\middleware\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|solutionrelative:projectmanagementapp.api\\middleware\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C7CEBC-382B-4FD3-8354-080B51E82A78}|ProjectManagementApp.Domain\\ProjectManagementApp.Domain.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.domain\\entities\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C7CEBC-382B-4FD3-8354-080B51E82A78}|ProjectManagementApp.Domain\\ProjectManagementApp.Domain.csproj|solutionrelative:projectmanagementapp.domain\\entities\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.infrastructure\\persistence\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|solutionrelative:projectmanagementapp.infrastructure\\persistence\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\projecttask\\commands\\deleteprojecttask\\deleteprojecttaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\projecttask\\commands\\deleteprojecttask\\deleteprojecttaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.infrastructure\\persistence\\repositories\\domainuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|solutionrelative:projectmanagementapp.infrastructure\\persistence\\repositories\\domainuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\contracts\\infrastructure\\persistence\\idomainuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\contracts\\infrastructure\\persistence\\idomainuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|solutionrelative:projectmanagementapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.infrastructure\\identity\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|solutionrelative:projectmanagementapp.infrastructure\\identity\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\contracts\\infrastructure\\identity\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\contracts\\infrastructure\\identity\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.infrastructure\\persistence\\projectmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|solutionrelative:projectmanagementapp.infrastructure\\persistence\\projectmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.infrastructure\\identity\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|solutionrelative:projectmanagementapp.infrastructure\\identity\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|solutionrelative:projectmanagementapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.infrastructure\\infrastructureservicedependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|solutionrelative:projectmanagementapp.infrastructure\\infrastructureservicedependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.infrastructure\\migrations\\projectmanagementdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|solutionrelative:projectmanagementapp.infrastructure\\migrations\\projectmanagementdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.infrastructure\\identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|solutionrelative:projectmanagementapp.infrastructure\\identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.api\\projectmanagementapp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|solutionrelative:projectmanagementapp.api\\projectmanagementapp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.api\\projectmanagementapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|solutionrelative:projectmanagementapp.api\\projectmanagementapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C7CEBC-382B-4FD3-8354-080B51E82A78}|ProjectManagementApp.Domain\\ProjectManagementApp.Domain.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.domain\\entities\\domainuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C7CEBC-382B-4FD3-8354-080B51E82A78}|ProjectManagementApp.Domain\\ProjectManagementApp.Domain.csproj|solutionrelative:projectmanagementapp.domain\\entities\\domainuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.infrastructure\\persistence\\repositories\\projecttaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|solutionrelative:projectmanagementapp.infrastructure\\persistence\\repositories\\projecttaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\projecttask\\commands\\updateprojecttask\\updateprojecttaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\projecttask\\commands\\updateprojecttask\\updateprojecttaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\features\\projecttask\\commands\\deleteprojecttask\\deleteprojecttaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\features\\projecttask\\commands\\deleteprojecttask\\deleteprojecttaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.infrastructure\\identity\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|solutionrelative:projectmanagementapp.infrastructure\\identity\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.api\\middleware\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DCBF90-BF36-40D4-A0A2-0D0CCA0741B7}|ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj|solutionrelative:projectmanagementapp.api\\middleware\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\applicationservicedependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\applicationservicedependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\contracts\\infrastructure\\identity\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\contracts\\infrastructure\\identity\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\models\\auth\\registrationresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\models\\auth\\registrationresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\models\\auth\\resgisterusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\models\\auth\\resgisterusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\models\\auth\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\models\\auth\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C7CEBC-382B-4FD3-8354-080B51E82A78}|ProjectManagementApp.Domain\\ProjectManagementApp.Domain.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.domain\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C7CEBC-382B-4FD3-8354-080B51E82A78}|ProjectManagementApp.Domain\\ProjectManagementApp.Domain.csproj|solutionrelative:projectmanagementapp.domain\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\models\\auth\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\models\\auth\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\models\\auth\\roleassignmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\models\\auth\\roleassignmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.application\\contracts\\infrastructure\\persistence\\iprojecttaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87FC2DE-7A4A-4F22-BE14-1EEDF89D89F0}|ProjectManagementApp.Application\\ProjectManagementApp.Application.csproj|solutionrelative:projectmanagementapp.application\\contracts\\infrastructure\\persistence\\iprojecttaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.infrastructure\\migrations\\20250709194754_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|solutionrelative:projectmanagementapp.infrastructure\\migrations\\20250709194754_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.infrastructure\\migrations\\20250709205721_nullableappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|solutionrelative:projectmanagementapp.infrastructure\\migrations\\20250709205721_nullableappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.infrastructure\\migrations\\20250710121938_taskduedateadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|solutionrelative:projectmanagementapp.infrastructure\\migrations\\20250710121938_taskduedateadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|z:\\lasttask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapptask\\projectmanagementapp.infrastructure\\migrations\\20250710121237_duedateaddedtotheprojct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8B6D0-B98A-4A2E-8001-E0DC3413F359}|ProjectManagementApp.Infrastructure\\ProjectManagementApp.Infrastructure.csproj|solutionrelative:projectmanagementapp.infrastructure\\migrations\\20250710121237_duedateaddedtotheprojct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:31:11.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidationCustomException.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Exceptions\\ValidationCustomException.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Exceptions\\ValidationCustomException.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Exceptions\\ValidationCustomException.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Exceptions\\ValidationCustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:31:18.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllProjectTasksQuery.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Queries\\GetAllProjectTasks\\GetAllProjectTasksQuery.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\ProjectTask\\Queries\\GetAllProjectTasks\\GetAllProjectTasksQuery.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Queries\\GetAllProjectTasks\\GetAllProjectTasksQuery.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\ProjectTask\\Queries\\GetAllProjectTasks\\GetAllProjectTasksQuery.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:35:09.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateProjectTaskCommandHandler.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\CreateProjectTask\\CreateProjectTaskCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\CreateProjectTask\\CreateProjectTaskCommandHandler.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\CreateProjectTask\\CreateProjectTaskCommandHandler.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\CreateProjectTask\\CreateProjectTaskCommandHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:33:17.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:31:01.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Responses\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Responses\\BaseResponse.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Responses\\BaseResponse.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Responses\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:30:27.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProjectCommandHandler.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Commands\\CreateProject\\CreateProjectCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\Project\\Commands\\CreateProject\\CreateProjectCommandHandler.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Commands\\CreateProject\\CreateProjectCommandHandler.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\Project\\Commands\\CreateProject\\CreateProjectCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:56:53.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProjectCommand.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Commands\\CreateProject\\CreateProjectCommand.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\Project\\Commands\\CreateProject\\CreateProjectCommand.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Commands\\CreateProject\\CreateProjectCommand.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\Project\\Commands\\CreateProject\\CreateProjectCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:56:47.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteProjectCommandHandler.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Commands\\DeleteProject\\DeleteProjectCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\Project\\Commands\\DeleteProject\\DeleteProjectCommandHandler.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Commands\\DeleteProject\\DeleteProjectCommandHandler.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\Project\\Commands\\DeleteProject\\DeleteProjectCommandHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:13:26.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteProjectCommand.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Commands\\DeleteProject\\DeleteProjectCommand.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\Project\\Commands\\DeleteProject\\DeleteProjectCommand.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Commands\\DeleteProject\\DeleteProjectCommand.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\Project\\Commands\\DeleteProject\\DeleteProjectCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:08:30.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateProjectCommandHandler.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Commands\\UpdateProject\\UpdateProjectCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\Project\\Commands\\UpdateProject\\UpdateProjectCommandHandler.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Commands\\UpdateProject\\UpdateProjectCommandHandler.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\Project\\Commands\\UpdateProject\\UpdateProjectCommandHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIAwwCoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:41:18.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateProjectCommand.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Commands\\UpdateProject\\UpdateProjectCommand.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\Project\\Commands\\UpdateProject\\UpdateProjectCommand.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Commands\\UpdateProject\\UpdateProjectCommand.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\Project\\Commands\\UpdateProject\\UpdateProjectCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:41:17.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllProjectsQueryHandler.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Queries\\GetAllProjects\\GetAllProjectsQueryHandler.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\Project\\Queries\\GetAllProjects\\GetAllProjectsQueryHandler.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Queries\\GetAllProjects\\GetAllProjectsQueryHandler.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\Project\\Queries\\GetAllProjects\\GetAllProjectsQueryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBQwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:48:42.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllProjectsQuery.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Queries\\GetAllProjects\\GetAllProjectsQuery.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\Project\\Queries\\GetAllProjects\\GetAllProjectsQuery.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Queries\\GetAllProjects\\GetAllProjectsQuery.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\Project\\Queries\\GetAllProjects\\GetAllProjectsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:33:33.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAllProjectResponse.cs.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Queries\\GetAllProjects\\GetAllProjectResponse.cs.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\Project\\Queries\\GetAllProjects\\GetAllProjectResponse.cs.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Queries\\GetAllProjects\\GetAllProjectResponse.cs.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\Project\\Queries\\GetAllProjects\\GetAllProjectResponse.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:56:41.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetProjectByIdQuery.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\GetProjectByIdQuery.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\GetProjectByIdQuery.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\GetProjectByIdQuery.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\GetProjectByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:01:14.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetProjectByIdQueryHandler.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\GetProjectByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\GetProjectByIdQueryHandler.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\GetProjectByIdQueryHandler.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\GetProjectByIdQueryHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:08:04.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjectDto.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\ProjectDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\ProjectDto.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\ProjectDto.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\ProjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:03:15.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetProjectByIdResponse.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\GetProjectByIdResponse.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\GetProjectByIdResponse.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\GetProjectByIdResponse.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\Project\\Queries\\GetProjectById\\GetProjectByIdResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:01:30.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetProjectTaskByIdQuery.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Queries\\GetProjectTaskById\\GetProjectTaskByIdQuery.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\ProjectTask\\Queries\\GetProjectTaskById\\GetProjectTaskByIdQuery.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Queries\\GetProjectTaskById\\GetProjectTaskByIdQuery.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\ProjectTask\\Queries\\GetProjectTaskById\\GetProjectTaskByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:33:24.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateProjectTaskCommandHandler.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\UpdateProjectTask\\UpdateProjectTaskCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\UpdateProjectTask\\UpdateProjectTaskCommandHandler.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\UpdateProjectTask\\UpdateProjectTaskCommandHandler.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\UpdateProjectTask\\UpdateProjectTaskCommandHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:33:22.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateProjectTaskCommand.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\CreateProjectTask\\CreateProjectTaskCommand.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\CreateProjectTask\\CreateProjectTaskCommand.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\CreateProjectTask\\CreateProjectTaskCommand.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\CreateProjectTask\\CreateProjectTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:28:02.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProjectTaskController.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\Controllers\\ProjectTaskController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Api\\Controllers\\ProjectTaskController.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\Controllers\\ProjectTaskController.cs",
+              "RelativeToolTip": "ProjectManagementApp.Api\\Controllers\\ProjectTaskController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwD8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:30:25.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Api\\Controllers\\ProjectController.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "ProjectManagementApp.Api\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:57:32.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProjectManagementApp.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:32:23.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\Middleware\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Api\\Middleware\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\Middleware\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "ProjectManagementApp.Api\\Middleware\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:35:31.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250710121938_TaskDueDateAdded.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Migrations\\20250710121938_TaskDueDateAdded.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Infrastructure\\Migrations\\20250710121938_TaskDueDateAdded.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Migrations\\20250710121938_TaskDueDateAdded.cs",
+              "RelativeToolTip": "ProjectManagementApp.Infrastructure\\Migrations\\20250710121938_TaskDueDateAdded.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:19:38.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProjectTask.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Domain\\Entities\\ProjectTask.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Domain\\Entities\\ProjectTask.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Domain\\Entities\\ProjectTask.cs",
+              "RelativeToolTip": "ProjectManagementApp.Domain\\Entities\\ProjectTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:54:17.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250710121237_DueDateAddedToTheProjct.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Migrations\\20250710121237_DueDateAddedToTheProjct.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Infrastructure\\Migrations\\20250710121237_DueDateAddedToTheProjct.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Migrations\\20250710121237_DueDateAddedToTheProjct.cs",
+              "RelativeToolTip": "ProjectManagementApp.Infrastructure\\Migrations\\20250710121237_DueDateAddedToTheProjct.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:12:37.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Persistence\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Infrastructure\\Persistence\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Persistence\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "ProjectManagementApp.Infrastructure\\Persistence\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:14:00.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeleteProjectTaskCommandHandler.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\DeleteProjectTask\\DeleteProjectTaskCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\DeleteProjectTask\\DeleteProjectTaskCommandHandler.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\DeleteProjectTask\\DeleteProjectTaskCommandHandler.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\DeleteProjectTask\\DeleteProjectTaskCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:33:20.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IDomainUserRepository.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Contracts\\Infrastructure\\Persistence\\IDomainUserRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Contracts\\Infrastructure\\Persistence\\IDomainUserRepository.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Contracts\\Infrastructure\\Persistence\\IDomainUserRepository.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Contracts\\Infrastructure\\Persistence\\IDomainUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:32:37.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Api\\Program.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\Program.cs",
+              "RelativeToolTip": "ProjectManagementApp.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:29:39.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DomainUserRepository.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Persistence\\Repositories\\DomainUserRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Infrastructure\\Persistence\\Repositories\\DomainUserRepository.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Persistence\\Repositories\\DomainUserRepository.cs",
+              "RelativeToolTip": "ProjectManagementApp.Infrastructure\\Persistence\\Repositories\\DomainUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:51:10.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Identity\\Services\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Infrastructure\\Identity\\Services\\CurrentUserService.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Identity\\Services\\CurrentUserService.cs",
+              "RelativeToolTip": "ProjectManagementApp.Infrastructure\\Identity\\Services\\CurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:18:13.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProjectManagementDbContext.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Persistence\\ProjectManagementDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Infrastructure\\Persistence\\ProjectManagementDbContext.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Persistence\\ProjectManagementDbContext.cs",
+              "RelativeToolTip": "ProjectManagementApp.Infrastructure\\Persistence\\ProjectManagementDbContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwEkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:15:33.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Contracts\\Infrastructure\\identity\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Contracts\\Infrastructure\\identity\\ICurrentUserService.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Contracts\\Infrastructure\\identity\\ICurrentUserService.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Contracts\\Infrastructure\\identity\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:19:40.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Identity\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Infrastructure\\Identity\\Services\\AuthService.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Identity\\Services\\AuthService.cs",
+              "RelativeToolTip": "ProjectManagementApp.Infrastructure\\Identity\\Services\\AuthService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswCoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:59:50.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Api\\appsettings.json",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\appsettings.json",
+              "RelativeToolTip": "ProjectManagementApp.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T18:28:44.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InfrastructureServiceDependencyInjection.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\InfrastructureServiceDependencyInjection.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Infrastructure\\InfrastructureServiceDependencyInjection.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\InfrastructureServiceDependencyInjection.cs",
+              "RelativeToolTip": "ProjectManagementApp.Infrastructure\\InfrastructureServiceDependencyInjection.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:38:01.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProjectManagementApp.Api",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj",
+              "RelativeToolTip": "ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T20:17:18.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProjectManagementApp.Api.csproj",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj",
+              "RelativeToolTip": "ProjectManagementApp.Api\\ProjectManagementApp.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T18:26:25.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Identity\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Infrastructure\\Identity\\Models\\ApplicationUser.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Identity\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ProjectManagementApp.Infrastructure\\Identity\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:00:08.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProjectManagementDbContextModelSnapshot.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Migrations\\ProjectManagementDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Infrastructure\\Migrations\\ProjectManagementDbContextModelSnapshot.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Migrations\\ProjectManagementDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProjectManagementApp.Infrastructure\\Migrations\\ProjectManagementDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:55:57.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20250709205721_nullableAppuser.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Migrations\\20250709205721_nullableAppuser.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Infrastructure\\Migrations\\20250709205721_nullableAppuser.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Migrations\\20250709205721_nullableAppuser.cs",
+              "RelativeToolTip": "ProjectManagementApp.Infrastructure\\Migrations\\20250709205721_nullableAppuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:57:21.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALMUAAAAAAAAAAAtwLYUAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-09T20:18:36.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DomainUser.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Domain\\Entities\\DomainUser.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Domain\\Entities\\DomainUser.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Domain\\Entities\\DomainUser.cs",
+              "RelativeToolTip": "ProjectManagementApp.Domain\\Entities\\DomainUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:54:20.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250709194754_init.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Migrations\\20250709194754_init.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Infrastructure\\Migrations\\20250709194754_init.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Migrations\\20250709194754_init.cs",
+              "RelativeToolTip": "ProjectManagementApp.Infrastructure\\Migrations\\20250709194754_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:47:54.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProjectTaskRepository.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Persistence\\Repositories\\ProjectTaskRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Infrastructure\\Persistence\\Repositories\\ProjectTaskRepository.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Persistence\\Repositories\\ProjectTaskRepository.cs",
+              "RelativeToolTip": "ProjectManagementApp.Infrastructure\\Persistence\\Repositories\\ProjectTaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:23:20.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateProjectTaskCommand.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\UpdateProjectTask\\UpdateProjectTaskCommand.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\UpdateProjectTask\\UpdateProjectTaskCommand.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\UpdateProjectTask\\UpdateProjectTaskCommand.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\UpdateProjectTask\\UpdateProjectTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:33:21.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DeleteProjectTaskCommand.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\DeleteProjectTask\\DeleteProjectTaskCommand.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\DeleteProjectTask\\DeleteProjectTaskCommand.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\DeleteProjectTask\\DeleteProjectTaskCommand.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Features\\ProjectTask\\Commands\\DeleteProjectTask\\DeleteProjectTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:33:20.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Identity\\Models\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Infrastructure\\Identity\\Models\\JwtOptions.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Infrastructure\\Identity\\Models\\JwtOptions.cs",
+              "RelativeToolTip": "ProjectManagementApp.Infrastructure\\Identity\\Models\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:00:25.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MiddlewareExtensions.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\Middleware\\MiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Api\\Middleware\\MiddlewareExtensions.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Api\\Middleware\\MiddlewareExtensions.cs",
+              "RelativeToolTip": "ProjectManagementApp.Api\\Middleware\\MiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:36:13.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApplicationServiceDependencyInjection.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\ApplicationServiceDependencyInjection.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\ApplicationServiceDependencyInjection.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\ApplicationServiceDependencyInjection.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\ApplicationServiceDependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:32:54.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Contracts\\Infrastructure\\identity\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Contracts\\Infrastructure\\identity\\IAuthService.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Contracts\\Infrastructure\\identity\\IAuthService.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Contracts\\Infrastructure\\identity\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:25:51.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RegistrationResponseModel.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Models\\Auth\\RegistrationResponseModel.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Models\\Auth\\RegistrationResponseModel.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Models\\Auth\\RegistrationResponseModel.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Models\\Auth\\RegistrationResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:42:56.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ResgisterUserModel.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Models\\Auth\\ResgisterUserModel.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Models\\Auth\\ResgisterUserModel.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Models\\Auth\\ResgisterUserModel.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Models\\Auth\\ResgisterUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:42:15.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AuthModel.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Models\\Auth\\AuthModel.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Models\\Auth\\AuthModel.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Models\\Auth\\AuthModel.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Models\\Auth\\AuthModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:27:20.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Domain\\Common\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Domain\\Common\\AuditableEntity.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Domain\\Common\\AuditableEntity.cs",
+              "RelativeToolTip": "ProjectManagementApp.Domain\\Common\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:57:42.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RoleAssignmentModel.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Models\\Auth\\RoleAssignmentModel.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Models\\Auth\\RoleAssignmentModel.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Models\\Auth\\RoleAssignmentModel.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Models\\Auth\\RoleAssignmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:28:34.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TokenRequestModel.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Models\\Auth\\TokenRequestModel.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Models\\Auth\\TokenRequestModel.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Models\\Auth\\TokenRequestModel.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Models\\Auth\\TokenRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:28:04.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IProjectTaskRepository.cs",
+              "DocumentMoniker": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Contracts\\Infrastructure\\Persistence\\IProjectTaskRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp.Application\\Contracts\\Infrastructure\\Persistence\\IProjectTaskRepository.cs",
+              "ToolTip": "Z:\\lastTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementAppTask\\ProjectManagementApp.Application\\Contracts\\Infrastructure\\Persistence\\IProjectTaskRepository.cs",
+              "RelativeToolTip": "ProjectManagementApp.Application\\Contracts\\Infrastructure\\Persistence\\IProjectTaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:13:05.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

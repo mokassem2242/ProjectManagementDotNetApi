@@ -1,0 +1,36 @@
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Domain\bin\Debug\net9.0\ProjectManagementApp.Domain.deps.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Domain\bin\Debug\net9.0\ProjectManagementApp.Domain.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Domain\bin\Debug\net9.0\ProjectManagementApp.Domain.pdb
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.AssemblyInfo.cs
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.sourcelink.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\refint\ProjectManagementApp.Domain.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.pdb
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ref\ProjectManagementApp.Domain.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\bin\Debug\net9.0\ProjectManagementApp.Domain.deps.json
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\bin\Debug\net9.0\ProjectManagementApp.Domain.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\bin\Debug\net9.0\ProjectManagementApp.Domain.pdb
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.AssemblyInfoInputs.cache
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.AssemblyInfo.cs
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.csproj.CoreCompileInputs.cache
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.sourcelink.json
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\refint\ProjectManagementApp.Domain.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.pdb
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ref\ProjectManagementApp.Domain.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\bin\Debug\net9.0\ProjectManagementApp.Domain.deps.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\bin\Debug\net9.0\ProjectManagementApp.Domain.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\bin\Debug\net9.0\ProjectManagementApp.Domain.pdb
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.AssemblyInfoInputs.cache
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.AssemblyInfo.cs
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.csproj.CoreCompileInputs.cache
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.sourcelink.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\refint\ProjectManagementApp.Domain.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ProjectManagementApp.Domain.pdb
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Domain\obj\Debug\net9.0\ref\ProjectManagementApp.Domain.dll

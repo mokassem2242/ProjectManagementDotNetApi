@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5X7LaSrmBKKXk9xDqbcssc/tu6CZrn13Fg6qDXMdZdM=",
+  "Source": "ProjectManagementApp.Api",
+  "BasePath": "_content/ProjectManagementApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

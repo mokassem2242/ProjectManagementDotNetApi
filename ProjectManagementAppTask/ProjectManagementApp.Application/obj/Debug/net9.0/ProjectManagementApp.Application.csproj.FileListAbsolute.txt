@@ -1,0 +1,48 @@
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Application.deps.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Application.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Application.pdb
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Domain.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Domain.pdb
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.csproj.AssemblyReference.cache
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.AssemblyInfoInputs.cache
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.AssemblyInfo.cs
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.sourcelink.json
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectM.CF01B3CD.Up2Date
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\refint\ProjectManagementApp.Application.dll
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.pdb
+C:\Users\Mohammad KASEM\source\repos\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ref\ProjectManagementApp.Application.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Application.deps.json
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Application.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Application.pdb
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Domain.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Domain.pdb
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.csproj.AssemblyReference.cache
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.AssemblyInfoInputs.cache
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.AssemblyInfo.cs
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.csproj.CoreCompileInputs.cache
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.sourcelink.json
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectM.CF01B3CD.Up2Date
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\refint\ProjectManagementApp.Application.dll
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.pdb
+D:\One Drive\M.kasim\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ref\ProjectManagementApp.Application.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.csproj.AssemblyReference.cache
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.AssemblyInfoInputs.cache
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.AssemblyInfo.cs
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.csproj.CoreCompileInputs.cache
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.sourcelink.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\refint\ProjectManagementApp.Application.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectManagementApp.Application.pdb
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Application.deps.json
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Application.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Application.pdb
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Domain.dll
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\bin\Debug\net9.0\ProjectManagementApp.Domain.pdb
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ProjectM.CF01B3CD.Up2Date
+Z:\lastTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementAppTask\ProjectManagementApp.Application\obj\Debug\net9.0\ref\ProjectManagementApp.Application.dll
