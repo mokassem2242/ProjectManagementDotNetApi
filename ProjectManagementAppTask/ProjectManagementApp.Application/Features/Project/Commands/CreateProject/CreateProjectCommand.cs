@@ -7,6 +7,8 @@ namespace ProjectManagementApp.Application.Features.Project.Commands.CreateProje
     {
         public string Name { get; set; }
         public string Description { get; set; }
+        public DateTime DueDate { get; set; }
+        public bool IsCompleted { get; set; }
     }
 
     public class CreateProjectCommandValidator : AbstractValidator<CreateProjectCommand>
@@ -15,6 +17,7 @@ namespace ProjectManagementApp.Application.Features.Project.Commands.CreateProje
         {
             RuleFor(x => x.Name).NotEmpty().WithMessage("MainProject name is required.");
             RuleFor(x => x.Description).NotEmpty().WithMessage("MainProject description is required.");
+            RuleFor(x => x.DueDate).NotEmpty().WithMessage("Due date is required.");
         }
     }
 }

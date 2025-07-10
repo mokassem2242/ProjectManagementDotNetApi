@@ -115,7 +115,12 @@ namespace ProjectManagementApp.Api
 
             app.UseCors("AllowAllOrigins");
             app.UseCustomExceptionHandler();
-            app.UseHttpsRedirection();
+            if (!app.Environment.IsDevelopment())
+            {
+                app.UseHttpsRedirection();
+            }
+
+
 
             app.UseAuthentication();
             app.UseAuthorization();

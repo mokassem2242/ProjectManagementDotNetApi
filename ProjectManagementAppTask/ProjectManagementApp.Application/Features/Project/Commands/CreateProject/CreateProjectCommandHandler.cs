@@ -51,6 +51,8 @@ namespace ProjectManagementApp.Application.Features.Project.Commands.CreateProje
                 Id = Guid.NewGuid(),
                 Name = request.Name,
                 Description = request.Description,
+                DueDate = request.DueDate,
+                IsCompleted = request.IsCompleted,
                 UserId = user.Id
             };
             await _projectRepository.AddAsync(project);

@@ -38,6 +38,8 @@ namespace ProjectManagementApp.Application.Features.Project.Commands.UpdateProje
             }
             project.Name = request.Name;
             project.Description = request.Description;
+            project.DueDate = request.DueDate;
+            project.IsCompleted = request.IsCompleted;
             await _projectRepository.UpdateAsync(project);
             var response = new UpdateProjectCommandResponse { Success = true };
             return response;
